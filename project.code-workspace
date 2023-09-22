@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../books webstie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "books webstie"
+	}
+}
